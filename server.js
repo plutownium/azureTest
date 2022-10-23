@@ -6,6 +6,10 @@ app.get('/', (req, res) => {
   res.send('Hello EF!')
 })
 
+app.get("/foo", (req,res)=>{
+    res.send("bar!")
+})
+
 app.get('/hats', (req, res) => {
     res.send('lots of hats!!')
   })

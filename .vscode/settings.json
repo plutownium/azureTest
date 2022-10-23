@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5bfb91b8-d123-4187-b302-f06182e6f703/AppServices/subscriptions/5bfb91b8-d123-4187-b302-f06182e6f703/resourceGroups/DefaultResourceGroup-CUS/providers/Microsoft.Web/sites/rmtest99",
+    "appService.deploySubpath": "."
+}
